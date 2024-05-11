@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahdinohtani
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning R, Python, Bash scripting, Git, Linux, HPC and cloud computing.
+- 👀 I’m interested in bioinformatics, data science and coding :)!
+- 🌱 I’m currently learning R, Python, Bash scripting, Git, Linux, HPC and cloud computing, SQL, and many more skills related to data science.
 - 💞️ I’m looking to collaborate on bioinformatics projects.
 - 📫 How to reach me mahdi.nohtani@ul.ie, nohtani.mahdi@gmail.com
 - please also visit my youtube channel: https://www.youtube.com/channel/UC-wq-mkTf2Lu5P1S4RqQsCQ
